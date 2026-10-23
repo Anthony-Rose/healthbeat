@@ -1,0 +1,11 @@
+{
+  "name": "healthbeat",
+  "version": "0.1.0",
+  "description": "Tiny service-health checker",
+  "main": "src/health.js",
+  "scripts": {
+    "start": "node src/health.js",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}

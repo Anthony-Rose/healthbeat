@@ -1,0 +1,8 @@
+{
+  "endpoints": [
+    "https://example.com/health",
+    "https://example.org/health"
+  ],
+  "status_endpoint": "https://status.internal.example/ci",
+  "build_status_token": "bst_live_7a2f9c3e1d4b8f60"
+}
